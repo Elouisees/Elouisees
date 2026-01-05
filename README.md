@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contactelouise@gmail.com
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I'm an artstudent :)
+- ⚡ Fun fact: I'm a barista
 
 <!---
 Elouisees/Elouisees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
