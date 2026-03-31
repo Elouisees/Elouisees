@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Elouisees
-- 👀 I’m interested in Arts and working out.
-- 🌱 I’m currently learning how to code!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contactelouise@gmail.com
-- 😄 Pronouns: She/They
-- ⚡ Fun fact: I'm a barista
+### Hi, I'm Elouise !  
 
-<!---
-Elouisees/Elouisees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Student @ 42 Amsterdam - Codam
+- Studied **Transformation Design** @ Willem de Kooning Academie, Rotterdam
+- Currently working on: *programming a function that returns a line
+read from a file descriptor.*
+- Check out EloTV (https://www.youtube.com/@EloTVPresents) to see some of my audiovisual work  
+- or https://www.instagram.com/homou.niversalis/ to see some of my other work  
+
